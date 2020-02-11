@@ -1,7 +1,7 @@
 **# Global_Weather_Analysis**
 
-In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
-To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api), 
+In this project, I am creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
+To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api), 
 to create a representative model of weather across world cities.
 
 My objective is to build a series of scatter plots to showcase the following relationships:
@@ -11,11 +11,13 @@ My objective is to build a series of scatter plots to showcase the following rel
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-My Process:
+**Process and Tools used:**
 
 * Perform a weather check on at least 500 random cities using a series of successive API calls.
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save both a CSV of all data retrieved and png images for each scatter plot.
+
+Python Libraries: Pandas, Matplotlib, Numpy, Json, Requests
 
 
 **Results**
@@ -24,6 +26,8 @@ My Process:
 ![Graph 1](images/Latitude_Temp.png)    ![Graph 2](images/Latitude_Humidity.png)
 
 ![Graph 3](images/Lat_Cloudiness.png)    ![Graph 4](images/Latitude_WindSpeed.png)
+
+
 
 
 **Brief Analysis**
