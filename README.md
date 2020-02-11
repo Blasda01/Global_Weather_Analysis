@@ -1,4 +1,4 @@
-**# Global_Weather_Analysis**
+# Global_Weather_Analysis
 
 In this project, I am creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api), 
