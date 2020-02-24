@@ -4,7 +4,7 @@ In this project, I am creating a Python script to visualize the weather of 500+ 
 To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api), 
 to create a representative model of weather across world cities. 
 
-My objective is to build a series of scatter plots to showcase the following relationships:
+My objective is to build a series of scatter plots to showcase the following relationships:  
 
 * Temperature (F) vs. Latitude 
 * Humidity (%) vs. Latitude
