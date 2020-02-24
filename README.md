@@ -9,7 +9,7 @@ My objective is to build a series of scatter plots to showcase the following rel
 * Temperature (F) vs. Latitude 
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude  
+* Wind Speed (mph) vs. Latitude   
 
 **Process and Tools used:**
 
